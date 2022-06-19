@@ -1,0 +1,47 @@
+c:\users\amirm_h6eh92l\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+c:\users\amirm_h6eh92l\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\amirm_h6eh92l\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\amirm_h6eh92l\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+c:\users\amirm_h6eh92l\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+c:\users\amirm_h6eh92l\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\amirm_h6eh92l\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+c:\users\amirm_h6eh92l\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+c:\users\amirm_h6eh92l\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\amirm_h6eh92l\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.box3.resources
+C:\Users\amirm_h6eh92l\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.box5.resources
+E:\Users\amirm_h6eh92l\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+E:\Users\amirm_h6eh92l\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+E:\Users\amirm_h6eh92l\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+E:\Users\amirm_h6eh92l\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+E:\Users\amirm_h6eh92l\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.box5.resources
+E:\Users\amirm_h6eh92l\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+E:\Users\amirm_h6eh92l\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\Users\amirm_h6eh92l\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+E:\Users\amirm_h6eh92l\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\Users\amirm_h6eh92l\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+E:\Users\amirm_h6eh92l\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\mscorlib.dll
+E:\Users\amirm_h6eh92l\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\normidna.nlp
+E:\Users\amirm_h6eh92l\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\normnfc.nlp
+E:\Users\amirm_h6eh92l\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\normnfd.nlp
+E:\Users\amirm_h6eh92l\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\normnfkc.nlp
+E:\Users\amirm_h6eh92l\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\normnfkd.nlp
+C:\Users\amirm_h6eh92l\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\amirm_h6eh92l\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\amirm_h6eh92l\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\amirm_h6eh92l\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.box5.resources
+C:\Users\amirm_h6eh92l\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\amirm_h6eh92l\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\amirm_h6eh92l\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\amirm_h6eh92l\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\amirm_h6eh92l\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\SAM-Tech\Desktop\new project aemi\3\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\SAM-Tech\Desktop\new project aemi\3\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\SAM-Tech\Desktop\new project aemi\3\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\SAM-Tech\Desktop\new project aemi\3\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.AssemblyReference.cache
+C:\Users\SAM-Tech\Desktop\new project aemi\3\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.box5.resources
+C:\Users\SAM-Tech\Desktop\new project aemi\3\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\SAM-Tech\Desktop\new project aemi\3\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\SAM-Tech\Desktop\new project aemi\3\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.cache
+C:\Users\SAM-Tech\Desktop\new project aemi\3\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+C:\Users\SAM-Tech\Desktop\new project aemi\3\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\SAM-Tech\Desktop\new project aemi\3\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
